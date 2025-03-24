@@ -1,4 +1,4 @@
-# SecuFix.sh v2 
+# SecuFix v2 
 
 **SecuFix.sh** is a comprehensive security audit and hardening script for Linux systems. It performs an in-depth analysis of your system configurations, verifying key security settings, and offering recommendations for improving the system's security posture. The audit includes checks for password policies, system hardening, logging, auditing, and much more.
 
