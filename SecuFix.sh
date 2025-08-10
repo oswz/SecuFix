@@ -11,7 +11,7 @@ NORMAL=$(tput sgr0)
 # Start with banner
 clear
 echo "${BOLD}${BLUE}|==============================================|${NORMAL}"
-echo "${BOLD}${BLUE}|       Linux System Hardening Scan     |${NORMAL}"
+echo "${BOLD}${BLUE}|       Linux System Hardening Scan            |${NORMAL}"
 echo "${BOLD}${BLUE}|              Version 2.0                     |${NORMAL}"
 echo "${BOLD}${BLUE}|                made by AA                    |${NORMAL}"
 echo "${BOLD}${BLUE}|==============================================|${NORMAL}"
